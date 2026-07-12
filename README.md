@@ -51,9 +51,3 @@ Construyo comunidad y conocimiento técnico desde una ciudad rural de Veracruz s
 - AWS Academy — Cloud Security Foundations
 - Ethical Hacker — Cisco Networking Academy
 - Ciberseguridad de Google — Coursera
-
----
-
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siegfried-FS&show_icons=true&theme=dark&hide_border=true&count_private=true)
