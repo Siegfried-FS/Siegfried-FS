@@ -1,12 +1,12 @@
 <div align="center">
 
 # 👋 Roberto Flores Segundo
-### Cloud Security & Infrastructure | ISO 27001:2022 Lead Auditor | AWS All Builders Welcome Scholar
+### Cloud Security & Infrastructure | ISO/IEC 27001:2022 Lead Auditor | AWS All Builders Welcome Grantee
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto_Flores-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-flores-b1a012322/)
-[![Portfolio](https://img.shields.io/badge/Website-siegfried--fs.com-0D9488?style=flat-square&logo=google-chrome&logoColor=white)](https://siegfried-fs.com)
-[![AWS User Group](https://img.shields.io/badge/AWS_User_Group-Playa_Vicente-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.meetup.com/es-es/aws-user-group-playa-vicente/)
-[![Sessionize](https://img.shields.io/badge/Sessionize-Speaker-1AB394?style=flat-square&logo=sessionize&logoColor=white)](https://sessionize.com/roberto-flores/)
+[![Website](https://img.shields.io/badge/Website-siegfried--fs.com-0D9488?style=flat-square&logo=google-chrome&logoColor=white)](https://siegfried-fs.com)
+[![AWS User Group](https://img.shields.io/badge/Community-AWS_UG_Playa_Vicente-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.meetup.com/es-es/aws-user-group-playa-vicente/)
+[![Sessionize](https://img.shields.io/badge/Sessionize-Speaker_Profile-1AB394?style=flat-square&logo=sessionize&logoColor=white)](https://sessionize.com/roberto-flores/)
 [![Email](https://img.shields.io/badge/Email-roberto.flores@siegfried--fs.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roberto.flores@siegfried-fs.com)
 
 </div>
@@ -15,41 +15,57 @@
 
 ### 🚀 Sobre Mí
 
-Vengo de una familia de carpinteros en **Playa Vicente, Veracruz** (una zona rural del sur de México sin ecosistema tecnológico previo). De manera **100% autodidacta**, canalicé esa disciplina artesanal hacia la informática, la seguridad en la nube y el desarrollo de comunidades técnicas.
+Originario de una familia de carpinteros en **Playa Vicente, Veracruz** (una zona rural del sur de México sin ecosistema tecnológico previo). De formación **100% autodidacta**, trasladé la disciplina y precisión del oficio hacia la informática, la seguridad cloud y el liderazgo de comunidades técnicas.
 
-* 🛡️ **Enfoque Técnico:** Especializado en **Seguridad Cloud (AWS), Cumplimiento Normativo (ISO/IEC 27001:2022, SOC 1/2) y Administración de Sistemas Linux**.
-* 📈 **Historial de Ejecución:** Lideré la preparación y auditoría técnica de un informe **SOC 1 Tipo 2** emitido en primera revisión sin observaciones críticas.
-* 👥 **Impacto Comunitario:** Fundé y lidero el **AWS User Group Playa Vicente** (250+ miembros, calificación 4.9/5★) y creé el programa de formación técnica gratuita *"De Cero a Cloud"* (130+ estudiantes registrados).
-* 🎤 **Divulgación Internacional:** He impartido conferencias y talleres técnicos en **5 países de LATAM** (México, Argentina, Nicaragua, Colombia y Perú).
-* 🎯 **Mentalidad:** Orientado al **aprendizaje continuo y rápido**, enfocado en asumir retos complejos donde pueda aportar valor inmediato y seguir creciendo.
+* 🛡️ **Especialidad Técnica:** Seguridad en AWS, Cumplimiento Normativo (ISO/IEC 27001:2022, SOC 1/2), Hardening de Infraestructura y Administración de Sistemas Linux.
+* 📈 **Experiencia Comprobada:** Lideré la preparación y auditoría técnica de un informe **SOC 1 Tipo 2** emitido en primera revisión sin observaciones críticas.
+* 🌟 **Reconocimiento Global:** Beneficiario oficial del **AWS All Builders Welcome Grant** (*re:Invent 2025*, Las Vegas) y ponente seleccionado en **AWS Builder Spotlight** (*AWS Summit Ciudad de México 2026*).
+* 🎯 **Mentalidad:** Orientado al **aprendizaje continuo y acelerado**, con una sólida base técnica y el compromiso de afrontar retos complejos donde pueda seguir creciendo profesionalmente.
 
 ---
 
-### 🛠️ Stack Tecnológico & Habilidades
+### 👥 Liderazgo Comunitario: AWS User Group Playa Vicente
+
+<div align="center">
+
+> **Fundador y Líder Comunitario Exclusivo** de la primera comunidad técnica oficial de AWS en la región del Papaloapan, Veracruz.
+
+| Métrica / Recurso | Detalle Oficial |
+|---|---|
+| 👥 **Comunidad Meetup:** | **251 miembros** activos (Calificación 4.9/5 ★ con 45 valoraciones) |
+| 🎓 **Programa "De Cero a Cloud":** | Formación técnica comunitaria de **12 semanas** con laboratorios en consola real (**130+ estudiantes registrados**) |
+| 🌐 **Red Internacional:** | Conferencista técnico en **5 países de LATAM** (México, Argentina, Nicaragua, Colombia y Perú) |
+| 🔗 **Canales Oficiales:** | [Meetup Oficial](https://www.meetup.com/es-es/aws-user-group-playa-vicente/) • [Portal Web](https://tiburoncp.siegfried-fs.com) • [YouTube](https://www.youtube.com/@AWSUserGroupPlayaVicente) • [Telegram](https://t.me/AUGPlayaVicente) |
+
+</div>
+
+---
+
+### 🛠️ Stack Tecnológico & Áreas de Dominio
 
 ```text
 ┌─────────────────────────┬─────────────────────────────────────────────────────────────┐
-│ Dominio                 │ Tecnologías, Herramientas y Frameworks                     │
+│ Área                    │ Tecnologías, Herramientas y Estándares                     │
 ├─────────────────────────┼─────────────────────────────────────────────────────────────┤
 │ ☁️ Cloud & AWS          │ IAM (Least Privilege), S3, KMS, Lambda, DynamoDB, API GW,   │
 │                         │ CloudWatch, GuardDuty, Security Hub, Cognito, Bedrock, EC2 │
-│ 🛡️ Security & Compliance│ ISO/IEC 27001:2022 (Lead Auditor), SOC 1 / SOC 2 Type 2,    │
+│ 🛡️ Security & GRC       │ ISO/IEC 27001:2022 (Lead Auditor), SOC 1 / SOC 2 Type 2,    │
 │                         │ Incident Response, Threat Modeling, Linux Server Hardening  │
 │ 💻 SysAdmin & DevOps    │ Linux (Debian / Ubuntu / systemd), Bash, Python, Docker,    │
 │                         │ Git, GitHub Actions (CI/CD), Zero Trust Tunnels (Cloudflare)│
-│ 🤖 AI & Development     │ Amazon Bedrock (Agents & RAG), Next.js, Tailwind CSS        │
+│ 🤖 AI & Automation      │ Amazon Bedrock (Agents & RAG), Next.js, Tailwind CSS        │
 └─────────────────────────┴─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### 💻 Repositorios & Workshops Destacados
+### 💻 Repositorios & Workshops Técnicos Destacados
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🛡️ <a href="https://github.com/Siegfried-FS/aws-security-agent-workshop">aws-security-agent-workshop</a></h3>
-      <p align="center">Workshop práctico de <strong>Shift Left Security</strong> con AWS Security Agent, escaneo automatizado en Amazon S3 con VirusTotal y auditoría de diseño arquitectónico.</p>
+      <p align="center">Workshop práctico de <strong>Shift Left Security</strong> con AWS Security Agent, escaneo automatizado en Amazon S3 con VirusTotal y análisis de riesgos en la fase de diseño.</p>
       <p align="center"><code>AWS</code> • <code>Security Agent</code> • <code>S3</code> • <code>Python</code></p>
     </td>
     <td width="50%">
@@ -66,7 +82,7 @@ Vengo de una familia de carpinteros en **Playa Vicente, Veracruz** (una zona rur
     </td>
     <td width="50%">
       <h3 align="center">☁️ <a href="https://github.com/Siegfried-FS/workshop-ec2-s3-iam">workshop-ec2-s3-iam</a></h3>
-      <p align="center">Servidor Web en Amazon EC2 con Flask, gestión de permisos mínimos mediante IAM Roles y almacenamiento de objetos en Amazon S3 sin credenciales estáticas.</p>
+      <p align="center">Servidor Web en Amazon EC2 con Flask, gestión de permisos de mínimo privilegio mediante IAM Roles y almacenamiento seguro de objetos en Amazon S3 sin credenciales estáticas.</p>
       <p align="center"><code>Amazon EC2</code> • <code>IAM Roles</code> • <code>Flask</code> • <code>Amazon S3</code></p>
     </td>
   </tr>
@@ -74,17 +90,17 @@ Vengo de una familia de carpinteros en **Playa Vicente, Veracruz** (una zona rur
 
 ---
 
-### 🏆 Certificaciones, Becas & Distinciones
+### 🏆 Certificaciones & Reconocimientos Oficiales
 
 <div align="center">
 
-| Certificación / Reconocimiento | Entidad Emisora |
+| Reconocimiento / Certificación | Organización Emisora |
 |---|---|
-| 🎓 **AWS All Builders Welcome Grant** | Amazon Web Services (re:Invent 2025 — Las Vegas, NV) |
-| 🛡️ **Auditor Líder ISO/IEC 27001:2022** | CertiProf (ID: 106487848) |
+| 🎓 **AWS All Builders Welcome Grantee** | Amazon Web Services (*re:Invent 2025* — Las Vegas, NV) |
+| 🛡️ **Auditor Líder Certificado ISO/IEC 27001:2022** | CertiProf (ID: 106487848) |
 | ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services (2025–2028) |
 | 🚨 **AWS Incident Response Demonstrated** | AWS Training & Certification (Microcredencial práctica 6/6) |
-| 🎙️ **AWS New Voices 2026 (Cohorte 3)** | Amazon Web Services (Programa oficial de formación de speakers) |
+| 🎙️ **AWS New Voices (Cohorte 3)** | Amazon Web Services (Programa oficial de formación de speakers) |
 | 🌟 **AWS Builder Spotlight** | AWS Summit Ciudad de México 2026 / AWS Builder Center |
 | 🥇 **Cisco Cyber Games Américas 2026** | Cisco Networking Academy (37/37 flags resueltas) |
 | 🏅 **Fortress Outstanding Contributor Award 2025** | NicaSecurity Hub (Nicaragua) |
@@ -103,9 +119,9 @@ Vengo de una familia de carpinteros en **Playa Vicente, Veracruz** (una zona rur
 
 ---
 
-### 📬 Conectemos
+### 📬 Contacto Profesional
 
-* 🌐 **Sitio Web & Blog:** [siegfried-fs.com](https://siegfried-fs.com)
+* 🌐 **Sitio Web Personal:** [siegfried-fs.com](https://siegfried-fs.com)
 * 💼 **LinkedIn:** [linkedin.com/in/roberto-flores-b1a012322](https://www.linkedin.com/in/roberto-flores-b1a012322/)
 * 🎤 **Sessionize:** [sessionize.com/roberto-flores](https://sessionize.com/roberto-flores/)
 * 📧 **Email:** [roberto.flores@siegfried-fs.com](mailto:roberto.flores@siegfried-fs.com)
