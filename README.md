@@ -19,7 +19,7 @@ Vengo de una familia de carpinteros en **Playa Vicente, Veracruz** (una zona rur
 
 * 🛡️ **Enfoque Técnico:** Especializado en **Seguridad Cloud (AWS), Cumplimiento Normativo (ISO/IEC 27001:2022, SOC 1/2) y Administración de Sistemas Linux**.
 * 📈 **Historial de Ejecución:** Lideré la preparación y auditoría técnica de un informe **SOC 1 Tipo 2** emitido en primera revisión sin observaciones críticas.
-* 👥 **Impacto Comunitario:** Fundé y lidero el **AWS User Group Playa Vicente** (250+ miembros, calificación 4.9/5★) y creé el programa de formación gratuita *"De Cero a Cloud"* (130+ estudiantes registrados).
+* 👥 **Impacto Comunitario:** Fundé y lidero el **AWS User Group Playa Vicente** (250+ miembros, calificación 4.9/5★) y creé el programa de formación técnica gratuita *"De Cero a Cloud"* (130+ estudiantes registrados).
 * 🎤 **Divulgación Internacional:** He impartido conferencias y talleres técnicos en **5 países de LATAM** (México, Argentina, Nicaragua, Colombia y Perú).
 * 🎯 **Mentalidad:** Orientado al **aprendizaje continuo y rápido**, enfocado en asumir retos complejos donde pueda aportar valor inmediato y seguir creciendo.
 
@@ -65,9 +65,9 @@ Vengo de una familia de carpinteros en **Playa Vicente, Veracruz** (una zona rur
       <p align="center"><code>AWS EC2</code> • <code>AWS CDK</code> • <code>Docker</code> • <code>Security</code></p>
     </td>
     <td width="50%">
-      <h3 align="center">🎓 <a href="https://github.com/Siegfried-FS/ArcadeDeLaComunidad">ArcadeDeLaComunidad</a></h3>
-      <p align="center">Plataforma interactiva de aprendizaje y dinámicas comunitarias desarrollada para los estudiantes del programa <em>De Cero a Cloud</em> del AWS User Group Playa Vicente.</p>
-      <p align="center"><code>JavaScript</code> • <code>Amplify</code> • <code>Community</code> • <code>HTML5</code></p>
+      <h3 align="center">☁️ <a href="https://github.com/Siegfried-FS/workshop-ec2-s3-iam">workshop-ec2-s3-iam</a></h3>
+      <p align="center">Servidor Web en Amazon EC2 con Flask, gestión de permisos mínimos mediante IAM Roles y almacenamiento de objetos en Amazon S3 sin credenciales estáticas.</p>
+      <p align="center"><code>Amazon EC2</code> • <code>IAM Roles</code> • <code>Flask</code> • <code>Amazon S3</code></p>
     </td>
   </tr>
 </table>
@@ -93,12 +93,11 @@ Vengo de una familia de carpinteros en **Playa Vicente, Veracruz** (una zona rur
 
 ---
 
-### 📊 Actividad en GitHub
+### 📈 Actividad y Racha en GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siegfried-FS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siegfried-FS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Siegfried-FS&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
 </div>
 
