@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto_Flores-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-flores-b1a012322/)
 [![Website](https://img.shields.io/badge/Website-siegfried--fs.com-0D9488?style=flat-square&logo=google-chrome&logoColor=white)](https://siegfried-fs.com)
-[![AWS User Group](https://img.shields.io/badge/Community-AWS_UG_Playa_Vicente-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.meetup.com/es-es/aws-user-group-playa-vicente/)
+[![AWS User Group](https://img.shields.io/badge/Community-AWS_UG_Playa_Vicente-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://awsugplayavicente.com)
 [![Sessionize](https://img.shields.io/badge/Sessionize-Speaker_Profile-1AB394?style=flat-square&logo=sessionize&logoColor=white)](https://sessionize.com/roberto-flores/)
 [![Email](https://img.shields.io/badge/Email-roberto.flores@siegfried--fs.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roberto.flores@siegfried-fs.com)
 
@@ -24,6 +24,37 @@ Originario de una familia de carpinteros en **Playa Vicente, Veracruz** (una zon
 
 ---
 
+### 🌐 Plataformas & Proyectos en Producción (Live)
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">☁️ <a href="https://awsugplayavicente.com">AWS User Group Playa Vicente</a></h3>
+      <p align="center">Portal oficial de la primera comunidad de AWS en la región del Papaloapan, Veracruz. Arquitectura Serverless desplegada en <strong>AWS Amplify + Next.js</strong>.</p>
+      <p align="center"><a href="https://awsugplayavicente.com"><strong>🔗 awsugplayavicente.com</strong></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎮 <a href="https://arcade.awsugplayavicente.com">Arcade de la Comunidad</a></h3>
+      <p align="center">Plataforma interactiva de minijuegos educativos geek y de cultura mexicana desplegada en <strong>AWS Amplify + Route 53</strong> para dinámicas comunitarias en vivo.</p>
+      <p align="center"><a href="https://arcade.awsugplayavicente.com"><strong>🔗 arcade.awsugplayavicente.com</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎙️ <a href="https://vagabundo.siegfried-fs.com">Vagabundo: Presentación Multimedia</a></h3>
+      <p align="center">Presentación interactiva web y multimedia: <em>"De la carpintería rural a re:Invent Las Vegas y conferencias en 5 países"</em>. Desplegada en <strong>Amazon S3 + CloudFront</strong>.</p>
+      <p align="center"><a href="https://vagabundo.siegfried-fs.com"><strong>🔗 vagabundo.siegfried-fs.com</strong></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">👤 <a href="https://siegfried-fs.com">Portafolio & Blog Técnico</a></h3>
+      <p align="center">Sitio web personal y blog de divulgación sobre Cloud Security, auditoría ISO 27001 y automatizaciones en la nube con seguridad de grado A en cabeceras HTTP.</p>
+      <p align="center"><a href="https://siegfried-fs.com"><strong>🔗 siegfried-fs.com</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 👥 Liderazgo Comunitario: AWS User Group Playa Vicente
 
 <div align="center">
@@ -35,7 +66,7 @@ Originario de una familia de carpinteros en **Playa Vicente, Veracruz** (una zon
 | 👥 **Comunidad Meetup:** | **251 miembros** activos (Calificación 4.9/5 ★ con 45 valoraciones) |
 | 🎓 **Programa "De Cero a Cloud":** | Formación técnica comunitaria de **12 semanas** con laboratorios en consola real (**130+ estudiantes registrados**) |
 | 🌐 **Red Internacional:** | Conferencista técnico en **5 países de LATAM** (México, Argentina, Nicaragua, Colombia y Perú) |
-| 🔗 **Canales Oficiales:** | [Meetup Oficial](https://www.meetup.com/es-es/aws-user-group-playa-vicente/) • [Portal Web](https://tiburoncp.siegfried-fs.com) • [YouTube](https://www.youtube.com/@AWSUserGroupPlayaVicente) • [Telegram](https://t.me/AUGPlayaVicente) |
+| 🔗 **Canales Oficiales:** | [Sitio Web](https://awsugplayavicente.com) • [Meetup Oficial](https://www.meetup.com/es-es/aws-user-group-playa-vicente/) • [YouTube](https://www.youtube.com/@AWSUserGroupPlayaVicente) • [Telegram](https://t.me/AUGPlayaVicente) |
 
 </div>
 
@@ -65,7 +96,7 @@ Originario de una familia de carpinteros en **Playa Vicente, Veracruz** (una zon
   <tr>
     <td width="50%">
       <h3 align="center">🛡️ <a href="https://github.com/Siegfried-FS/aws-security-agent-workshop">aws-security-agent-workshop</a></h3>
-      <p align="center">Workshop práctico de <strong>Shift Left Security</strong> con AWS Security Agent, escaneo automatizado en Amazon S3 con VirusTotal y análisis de riesgos en la fase de diseño.</p>
+      <p align="center">Workshop práctico de <strong>Shift Left Security</strong> con AWS Security Agent, escaneo automatizado en Amazon S3 con VirusTotal y análisis de riesgos en diseño.</p>
       <p align="center"><code>AWS</code> • <code>Security Agent</code> • <code>S3</code> • <code>Python</code></p>
     </td>
     <td width="50%">
